@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hi, I’m an Undergraduate student majoring Electrical Engineering.
   I love being simple and creative.
 url: "http://adithyaselv.github.io/" # the base hostname & protocol for your site
-logourl: /assets/images/logo.png # Site logo
+logourl: /assets/images/logo1.png # Site logo
 author: "Adithya Selvaprithiviraj"
 author_thumbnail: "/assets/images/avatar1.jpg" # Author avatar
 # Theme customization - please change from the defaults!
