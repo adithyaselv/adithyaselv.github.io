@@ -277,8 +277,8 @@ header.main-header {
 
 
 .click img {
-  margin-left: 50px;
-  margin-top: -30px;
+  margin-left: 30px;
+  margin-top: -25px;
   position: fixed;
   
 }
@@ -286,6 +286,14 @@ header.main-header {
 
 @media (min-width: 300px) and (max-width: 1200px) {
     .click img {
+      position: absolute;
+    }
+  }
+
+  @media (min-width: 300px) and (max-width: 760px) {
+    .click img {
+      margin-left: 30px;
+      margin-top: -30px;
       position: absolute;
     }
   }
