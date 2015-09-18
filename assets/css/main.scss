@@ -264,7 +264,7 @@ header.main-header {
     border-bottom: 2px transparent solid;
     padding-bottom:5px;
     @include transition(all, .2s);
-    @include MQ(M) {
+    @include MQ(S) {
       @include font-size(20px);
     }
     &:hover, &:focus, &:active {
@@ -740,4 +740,34 @@ header.main-header {
   p { @include font-size(14px); }
   img { float:left; margin-right: 1em; }
   ul { margin-bottom: 0; }
+}
+
+.footer-wrapper {
+  @include clearfix;
+  margin: 2em auto;
+  text-align: center;
+  font-style: italic;
+}
+
+/*
+   Social media icons
+      ========================================================================== */
+
+.social-icons {
+  margin: 1em 0 2em;
+  a {
+    padding: 4px 8px;
+    &:hover {
+      color: black;
+    }
+  }
+}
+
+.entry-wrapper {
+    margin-top: 0;
+    margin-bottom: 3em;
+}
+
+.hr-col{
+    color: black
 }

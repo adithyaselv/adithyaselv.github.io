@@ -12,8 +12,6 @@ Hi, I am *Adithya Selvaprithiviraj*, currently pursuing my final year of undergr
 Say `Hello` at adithyaselv@gmail.com or find
 me on
 
----
-
 {% include social.html %}
 
 ***Logo / Avatar Credits: Ajay Balaji***
