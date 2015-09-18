@@ -45,7 +45,11 @@
     {% include sidebar.html %}
     <div class="main-wrapper">
       <div class="header">
+        <div class="click"> <img 
+    src="{{ "/assets/images/click.png" | prepend: site.baseurl | prepend: site.url }}" /></div>
+    
         <div class="container">
+          
           <div class="header-logo">{% include logo.html %}</div>
           <div class="header-title">
             <a href="{{ '' | prepend: site.baseurl | prepend: site.url | append: '/' }}" 
@@ -54,9 +58,13 @@
             </a>
           </div>        
         </div>  
-      </div>
       
+      </div>
+        <header class="main-header">
+          {% include header-links.html %} 
+        </header>
       <div class="container content">
+        
           {{ content }}
       </div>
       <a href="#0" class="wc-top">Top</a>

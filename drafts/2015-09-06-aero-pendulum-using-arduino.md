@@ -12,7 +12,7 @@ banner_image: aero-pend.jpg
 comments: true
 ---
 
-In this tutorial we'll see how to Implement Aeropendulum using Arduino.~~The concept was inspired from the project done in Arizona State university.~~ 
+In this tutorial we'll see how to Implement Aeropendulum using Arduino. ~~The concept was inspired from the project done in Arizona State university.~~ 
 
 ####Requirements:
 

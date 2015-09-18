@@ -228,12 +228,68 @@ img {
    * Special media query hack for small tablet screen.
    * Due to overlap of menu toggle and the logo.
    */
-  @media (min-width: 768px) and (max-width: 991px) {
+  @media (min-width: 768px) and (max-width: 1200px) {
     .container {
       width: 75%;
+      margin-left: 30%;
     }
   }
 }
+
+
+header.main-header {
+
+  ul {
+    width: 100%;
+    text-align: center;
+    margin-top: -50px;
+    margin-bottom: 40px;
+  }
+  ul li {       
+    display: inline-block;
+    position:relative;
+    color: #205081;
+    font-size:25px;
+  }
+
+  ul li span {
+    float: left;
+    display: inline-block;
+    width: 15px;
+  }
+
+  ul li a { 
+    display:inline-block;
+    color: inherit;
+    border-bottom: 2px transparent solid;
+    padding-bottom:5px;
+    @include transition(all, .2s);
+    @include MQ(M) {
+      @include font-size(20px);
+    }
+    &:hover, &:focus, &:active {
+      border-bottom-color: inherit;
+    }
+  }
+}
+
+
+
+
+.click img {
+  margin-left: 50px;
+  margin-top: -30px;
+  position: fixed;
+  
+}
+
+
+@media (min-width: 300px) and (max-width: 1200px) {
+    .click img {
+      position: absolute;
+    }
+  }
+
 
 .header .header-logo {
   min-height: 44px;
