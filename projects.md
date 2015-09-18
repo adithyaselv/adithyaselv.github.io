@@ -26,6 +26,7 @@ permalink: /projects/
 in a DSO.
 * Developed a technique to display any given image in a DSO with the help of image processing and python.
 
+##### *Checkout the blog post about this project [here](https://adithyaselv.quora.com/Engineering-Art-and-Python-Connecting-the-Dots)* .
 
 ---
 
@@ -56,4 +57,6 @@ in a DSO.
 OpenCV C++ library.
 * Implemented A* based search on the image to find the optimal path through a obstacle maze.
 * Implemented a PID based control system based on the kinematics of the differential driving system.
+
+##### *To know more about the implementation and algorithm which was developed, checkout [this blog post](http://sibisankar.me/articles/LOCK-part1/) by [sibi sankar](http://sibisankar.me/)* .
 
