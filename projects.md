@@ -18,7 +18,7 @@ permalink: /projects/
  Adithya S, Mervin JB, Sibi Sankar, Sanjay Shreedharan</em> </h6>
 
 
-![placeholder](/assets/images/buddha.jpg)
+![placeholder](/assets/images/dsoart.gif)
 
 
 

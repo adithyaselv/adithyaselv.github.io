@@ -12,13 +12,13 @@ banner_image: aero-pend.jpg
 comments: true
 ---
 
-In this tutorial we'll see how to Implement Aeropendulum using Arduino. ~~The concept was inspired from the project done in Arizona State university.~~ 
+In this tutorial we'll see how to build an Aeropendulum using Arduino. ~~The concept was inspired from the project done in Arizona State university.~~ 
 
 ####Requirements:
 
 * High RPM DC motor
 * Propeller
-* L298 H-Bridge Driver
+* L298 H-Bridge Motor Driver IC
 * Arduino UNO
 * Power Supply (RPS)
 * ADXL 345 Accelerometer
