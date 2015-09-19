@@ -5,11 +5,11 @@ permalink: /projects/
 
 #Projects
 
-|[ **DSO Art (aka) Digital painter** ](#dso-art-aka-digital-painter)|
+| [ **DSO Art (aka) Digital painter** ](#dso-art-aka-digital-painter) |
 | [**Magnetic Levitation System**](#magnetic-levitation-system) |
 | [**LOCK** ](#lock) |
-| [**AeroThrust Pendullum using Arduino**](#) |
-| [**Kiduino**](#) |
+| [**AeroThrust Pendullum using Arduino**](#aerothrust-pendullum-using-arduino) |
+| [**Kiduino**](#kiduino) |
 
 ---
 
@@ -60,3 +60,33 @@ OpenCV C++ library.
 
 ##### *To know more about the implementation and algorithm which was developed, checkout [this blog post](http://sibisankar.me/articles/LOCK-part1/) by [sibi sankar](http://sibisankar.me/)* .
 
+---
+
+##**AeroThrust Pendullum using Arduino**
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lsm37dsPO0k" frameborder="0" allowfullscreen></iframe>
+
+<br />
+
+* Designed a Prototype of Aero- Thrust Pendulum.
+* Implemented PI and PID Control Algorithms to achieve stable control of the system using Arduino Uno Microcontroller.
+* Implmentation is available on [Github](https://github.com/adithyaselv/Aerothrust-Pendulum)
+
+---
+
+##**Kiduino**
+
+
+![placeholder](/assets/images/kiduino.png)
+
+
+
+* Developed a library for Arduino that would help the kids learn Arduino with an simple Object Oriented
+approach.
+* Developed classes for several Sensor modules like HC- SR04,GP2Y0A02YK0F etc and Protocols like SIRC.
+* Implmentation is available on [Github](https://github.com/adithyaselv/Kiduino)
+
+
+---
