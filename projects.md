@@ -24,7 +24,7 @@ permalink: /projects/
 
 * Implemented mathematical functions on Spartan 3E FPGA and used PWM technique to display basic shapes
 in a DSO.
-* Developed a technique to display any given image in a DSO with the help of image processing and python.
+* Developed a technique to display any given image in DSO with the help of image processing and python.
 
 ##### *Checkout the blog post about this project [here](https://adithyaselv.quora.com/Engineering-Art-and-Python-Connecting-the-Dots)* .
 
@@ -62,7 +62,7 @@ OpenCV C++ library.
 
 ---
 
-##**AeroThrust Pendullum using Arduino**
+##**AeroThrust Pendulum using Arduino**
 
 
 
@@ -72,7 +72,7 @@ OpenCV C++ library.
 
 * Designed a Prototype of Aero- Thrust Pendulum.
 * Implemented PI and PID Control Algorithms to achieve stable control of the system using Arduino Uno Microcontroller.
-* Implmentation is available on [Github](https://github.com/adithyaselv/Aerothrust-Pendulum)
+* Implementation is available on [Github](https://github.com/adithyaselv/Aerothrust-Pendulum)
 
 ---
 
@@ -83,10 +83,10 @@ OpenCV C++ library.
 
 
 
-* Developed a library for Arduino that would help the kids learn Arduino with an simple Object Oriented
+* Developed a library for Arduino that would help the kids learn Arduino with a simple Object Oriented
 approach.
 * Developed classes for several Sensor modules like HC- SR04,GP2Y0A02YK0F etc and Protocols like SIRC.
-* Implmentation is available on [Github](https://github.com/adithyaselv/Kiduino)
+* Implementation is available on [Github](https://github.com/adithyaselv/Kiduino)
 
 
 ---
