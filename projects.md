@@ -51,7 +51,7 @@ in a DSO.
 <h6> <em>Mentor - Prof. M.Senthil Kumaran (EEE/SSNCE) <br /> 
  Sibi Sankar, Sanjay Shreedharan, Adithya S</em> </h6>
 
-![placeholder](/assets/images/lock.jpg)
+<img src="/assets/images/lock.jpg" alt="image" style="width: 500px; float: centre;" />
 
 * Implemented Localization and Pose estimation based on arbitrary defined color contours detection using
 OpenCV C++ library.
