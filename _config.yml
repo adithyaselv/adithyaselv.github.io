@@ -2,8 +2,9 @@
 title: Adithya Selvaprithiviraj
 tagline: (Philomath)
 email: adithyaselv@gmail.com
-description: > # My personal website and blog
-
+description: > # 
+  My personal website and blog.
+  
 url: "http://adithyaselv.github.io/" # the base hostname & protocol for your site   adithyaselv.github.io/    127.0.0.1:4000/
 logourl: /assets/images/logo1.png # Site logo
 author: "Adithya Selvaprithiviraj"
