@@ -26,6 +26,7 @@ theme:
 
   # Show author picure, name and social links on post footer
   show_author_info: true
+  
 
   # Disqus comments manager - shortname
   disqus_shortname: adithyaselv
