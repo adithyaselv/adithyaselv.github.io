@@ -14,4 +14,4 @@ I am a foodie and I love trying different food. In my free time, I write small h
 
 To know more about me, have a look at my [resume](/assets/Cv.pdf) or Say `Hello` at adithyaselv@gmail.com 
 
-***Logo / Avatar Credits: Ajay Balaji***
+######Logo / Avatar Credits: Ajay Balaji
