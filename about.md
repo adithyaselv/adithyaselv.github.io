@@ -12,6 +12,6 @@ Hi, I am *Adithya Selvaprithiviraj*, currently pursuing my final year of undergr
 
 I am a foodie and I love trying different food. In my free time, I write small hacks and scripts using python which helps me to automate humdrum tasks.
 
-To know more about me, have a look at my [resume](/assets/Cv.pdf) or Say `Hello` at adithyaselv@gmail.com 
+To know more about me, have a look at my [resume](/assets/Cv.pdf) or Say `Hello` at adithyaselv[at]gmail[dot]com 
 
 ######Logo / Avatar Credits: Ajay Balaji
