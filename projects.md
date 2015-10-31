@@ -13,6 +13,7 @@ permalink: /projects/
 | [**Kiduino**](#kiduino) |
 
 ---
+
 ##**FPGA Implementation of Nand2Tetris course**
 <h6> <em>Mentor - Prof. M.Senthil Kumaran (EEE/SSNCE) <br /> 
  Adithya S</em> </h6>
