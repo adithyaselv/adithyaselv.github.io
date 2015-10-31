@@ -5,7 +5,7 @@ email: adithyaselv@gmail.com
 description: > # 
   My personal website and blog.
   
-url: "http://adithyaselv.com/" # the base hostname & protocol for your site   adithyaselv.github.io/    127.0.0.1:4000/
+url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site   adithyaselv.github.io/    127.0.0.1:4000/
 logourl: /assets/images/logo1.png # Site logo
 author: "Adithya Selvaprithiviraj"
 author_thumbnail: "/assets/images/profile.jpg" # Author avatar
