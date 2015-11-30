@@ -5,6 +5,7 @@ permalink: /projects/
 
 #Projects
 
+| [ **Face expression (emotion) recognition using Machine learning - Python** ](#fpga-implementation-of-nand2tetris-course) |
 | [ **FPGA Implementation of Nand2Tetris course** ](#fpga-implementation-of-nand2tetris-course) |
 | [ **DSO Art (aka) Digital painter** ](#dso-art-aka-digital-painter) |
 | [**Magnetic Levitation System**](#magnetic-levitation-system) |
@@ -17,6 +18,17 @@ permalink: /projects/
 ##**FPGA Implementation of Nand2Tetris course**
 <h6> <em>Mentor - Prof. M.Senthil Kumaran (EEE/SSNCE) <br /> 
  Adithya S</em> </h6>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f4_ktr4lO60" frameborder="0" allowfullscreen></iframe>
+
+<br />
+
+* Developed a soft microprocessor starting from a simple NAND gate with the help Xilinx system generator toolbox using matlab and implemented the design on Spartan 3E FPGA.
+* Developed all the necessary sub-modules for programming and debugging the HACK-COMPUTER such as, the assembler, VGA interface driver, PS2 Keyboard interface driver.
+
+---
+
+##**Face expression (emotion) recognition using Machine learning - Python**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f4_ktr4lO60" frameborder="0" allowfullscreen></iframe>
 
