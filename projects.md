@@ -5,6 +5,7 @@ permalink: /projects/
 
 # Projects
 
+| [**Face expression detector using Support Vector Machine**](#face-expression-detector-using-support-vector-machine) |
 | [**Design and Implementation of Soft processor on FPGA**](#design-and-implementation-of-soft-processor-on-fpga) |
 | [**DSO Art (aka) Digital painter**](#dso-art-aka-digital-painter) |
 | [**Magnetic Levitation System**](#magnetic-levitation-system) |
@@ -13,9 +14,10 @@ permalink: /projects/
 | [**Kiduino**](#kiduino) |
 
 ---
+
 ## **Face expression detector using Support Vector Machine**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2ky_W649G-Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ky_W649G-Q" frameborder="0" allowfullscreen></iframe>
 
 <br />
 
