@@ -3,18 +3,29 @@ layout: page
 permalink: /projects/
 ---
 
-#Projects
+# Projects
 
-| [ **FPGA Implementation of Nand2Tetris course** ](#fpga-implementation-of-nand2tetris-course) |
-| [ **DSO Art (aka) Digital painter** ](#dso-art-aka-digital-painter) |
+| [**Design and Implementation of Soft processor on FPGA**](#design-and-implementation-of-soft-processor-on-fpga) |
+| [**DSO Art (aka) Digital painter**](#dso-art-aka-digital-painter) |
 | [**Magnetic Levitation System**](#magnetic-levitation-system) |
-| [**LOCK** ](#lock) |
+| [**LOCK**](#lock) |
 | [**AeroThrust Pendullum using Arduino**](#aerothrust-pendullum-using-arduino) |
 | [**Kiduino**](#kiduino) |
 
 ---
+## **Face expression detector using Support Vector Machine**
 
-##**FPGA Implementation of Nand2Tetris course**
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2ky_W649G-Q" frameborder="0" allowfullscreen></iframe>
+
+<br />
+
+* Facial landmarks were detected using dlib library and feature set was extracted from several face datasets.
+* Training was done with the obtained feature set using several supervised learning models and their performances were analysed.
+* An application was developed to identify the face expression of the person in an image using the trained model.
+
+---
+
+## **Design and Implementation of Soft processor on FPGA**
 <h6> <em>Mentor - Prof. M.Senthil Kumaran (EEE/SSNCE) <br /> 
  Adithya S</em> </h6>
 
@@ -23,12 +34,12 @@ permalink: /projects/
 <br />
 
 * Developed a soft microprocessor starting from a simple NAND gate with the help Xilinx system generator toolbox using matlab and implemented the design on Spartan 3E FPGA.
-* Developed all the necessary sub-modules for programming and debugging the HACK-COMPUTER such as, the assembler, VGA interface driver, PS2 Keyboard interface driver.
+* Developed all the necessary sub-modules for programming and debugging the soft processor such as, the assembler, VGA interface driver, PS2 Keyboard interface driver.
 
 ---
 
 
-##**DSO-ART (aka) Digital Painter**
+## **DSO-ART (aka) Digital Painter**
 <h6> <em>Mentor - Prof. M.Senthil Kumaran (EEE/SSNCE) <br /> 
  Adithya S, Mervin JB, Sibi Sankar, Sanjay Shreedharan</em> </h6>
 
@@ -45,7 +56,7 @@ in a DSO.
 
 ---
 
-##**Magnetic Levitation System**
+## **Magnetic Levitation System**
 <h6> <em>Mentor - Prof. M.Senthil Kumaran (EEE/SSNCE) <br /> 
  Sibi Sankar, Sanjay Shreedharan, Adithya S</em> </h6>
 
@@ -62,7 +73,7 @@ in a DSO.
 
 <h3 id="lock"> <strong>LOCK</strong> </h3>
  
-#####*(Localization, Obstacle avoidance , Control and Kinematic framework)* 
+##### *(Localization, Obstacle avoidance , Control and Kinematic framework)* 
 <h6> <em>Mentor - Prof. M.Senthil Kumaran (EEE/SSNCE) <br /> 
  Sibi Sankar, Sanjay Shreedharan, Adithya S</em> </h6>
 
@@ -77,7 +88,7 @@ OpenCV C++ library.
 
 ---
 
-##**AeroThrust Pendulum using Arduino**
+## **AeroThrust Pendulum using Arduino**
 
 
 
@@ -91,7 +102,7 @@ OpenCV C++ library.
 
 ---
 
-##**Kiduino**
+## **Kiduino**
 
 
 ![placeholder](/assets/images/kiduino.png)
