@@ -39,7 +39,7 @@ theme:
 markdown: kramdown
 
 #gems
-#gems: 
+gems: [jekyll-paginate] 
 #- jemoji
 
 # Permalinks

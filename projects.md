@@ -6,6 +6,7 @@ permalink: /projects/
 # Projects
 
 | [**Face expression detector using Support Vector Machine**](#face-expression-detector-using-support-vector-machine) |
+| [**MACH-ONLINE**](#mach-online) |
 | [**Design and Implementation of Soft processor on FPGA**](#design-and-implementation-of-soft-processor-on-fpga) |
 | [**DSO Art (aka) Digital painter**](#dso-art-aka-digital-painter) |
 | [**Magnetic Levitation System**](#magnetic-levitation-system) |
@@ -24,6 +25,20 @@ permalink: /projects/
 * Facial landmarks were detected using dlib library and feature set was extracted from several face datasets.
 * Training was done with the obtained feature set using several supervised learning models and their performances were analysed.
 * An application was developed to identify the face expression of the person in an image using the trained model.
+
+---
+
+## **MACH-ONLINE**
+<h6><em> Adithya S, Karthik Singaram</em> </h6>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dAKumf9LmA4" frameborder="0" allowfullscreen></iframe>
+
+<br />
+
+#### Project Description
+
+  * Machines have started to replace manpower in every sector. The major draw back with them is the need for monitoring and controlling by humans. The machine health and performance is also often neglected leading to disruption in production line resulting in downtime.
+  * We proposed to use a centralized system to control monitor a group of machines by a single operator. It also collects important parameters to predict the machine health and defective parts.
 
 ---
 
