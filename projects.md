@@ -40,6 +40,8 @@ permalink: /projects/
   * Machines have started to replace manpower in every sector. The major draw back with them is the need for monitoring and controlling by humans. The machine health and performance is also often neglected leading to disruption in production line resulting in downtime.
   * We proposed to use a centralized system to control monitor a group of machines by a single operator. It also collects important parameters to predict the machine health and defective parts.
 
+*Won us 3rd place at IndiaHacks Hackathon by HackerEarth*
+ 
 ---
 
 ## **Design and Implementation of Soft processor on FPGA**
