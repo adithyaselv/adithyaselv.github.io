@@ -5,6 +5,7 @@ permalink: /projects/
 
 # Projects
 
+| [**AgriConnect**](#agriconnect) |
 | [**Face expression detector using Support Vector Machine**](#face-expression-detector-using-support-vector-machine) |
 | [**MACH-ONLINE**](#mach-online) |
 | [**Design and Implementation of Soft processor on FPGA**](#design-and-implementation-of-soft-processor-on-fpga) |
@@ -15,6 +16,19 @@ permalink: /projects/
 | [**Kiduino**](#kiduino) |
 
 ---
+
+## **AgriConnect**
+<h6><em> Adithya S, Karthik Singaram</em> </h6>
+
+![placeholder](/assets/images/agriconnect.png)
+
+#### Project Description
+
+  * Monitoring huge farms and irrigating the crops has always been very challenging, involving lot of Manual labour and Cost associated to it.
+  * So we developed a highly low cost IOT solution by designing our own sensor node hardware, which can be deployed in several spots in the field to monitor. Also we developed a master controller which can communicate with these nodes and get sensor data as well as control the irrigation. 
+
+---
+
 
 ## **Face expression detector using Support Vector Machine**
 
