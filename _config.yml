@@ -10,7 +10,7 @@ logourl: /assets/images/logo1.png # Site logo
 author: "Adithya Selvaprithiviraj"
 author_thumbnail: "/assets/images/profile.jpg" # Author avatar
 # Theme customization - please change from the defaults!
-theme:
+theme2:
   # Color for sidebar bar, links, etc
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
@@ -40,10 +40,9 @@ markdown: kramdown
 
 #gems
 gems: [jekyll-paginate] 
-#- jemoji
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Pagination config
 paginate: 3
