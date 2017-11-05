@@ -3,8 +3,6 @@ layout: page
 permalink: /projects/
 ---
 
-# Projects
-
 | [**AgriConnect**](#agriconnect) |
 | [**Face expression detector using Support Vector Machine**](#face-expression-detector-using-support-vector-machine) |
 | [**MACH-ONLINE**](#mach-online) |
