@@ -592,7 +592,6 @@ header.main-header {
 .post, .page {
   margin-bottom: 2em;
   padding: 1em;
-  text-align: justify;
   @include MQ(M) {
     margin-bottom: 4em;
     padding: 2em;
@@ -607,6 +606,10 @@ header.main-header {
 .post-title a {
   color: $color-1;
   border-bottom-width: 2px;
+}
+
+.post-content {
+  text-align: justify;
 }
 
 /* Put some padding arround post images */
