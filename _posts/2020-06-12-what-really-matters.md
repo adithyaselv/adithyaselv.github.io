@@ -5,7 +5,7 @@ date:   2020-06-12 23:37:42
 categories: education philosophy college undergraduate
 comments: true
 ---
-<div style="text-align: justify">
+
 Millions of students join engineering colleges every year but only a minuscule percentage graduate with some acceptable degree of satisfaction and a sense of achievement, while the majority end up confused and disillusioned as a result of short-sighted choices they make. In this article, I will outline some tips which when followed during the course of study can give students some sense of satisfaction in the end. The suggestions given are completely based on my personal experience and my philosophy towards education, work, and life.
 
 
@@ -95,6 +95,3 @@ In my third year, my friends and I were playing around with an oscilloscope and 
 As a final piece of advice I want to tell you that the experience that you gain in the four years is going to matter in the rest of your life. Be open to experiments and strive for different experiences, the more you succeed and the more you fail, the more you learn. So never be idle, be active! do a lot of things, enable others to do the things they want at their best. Develop good relationships and make memorable moments which you can think about and reminisce. Inculcate emotional and professional maturity as it is often needed to handle a lot of situations and make sensible decisions. 
 
 Following all these suggestion, should you expect to have complete satisfaction of successfully finishing bachelors in engineering? No, Not necessarily! It is the thirst of wanting to do something better than what you did before, which is going to make you move forward. A bachelor’s in engineering is not the whole life, you have a lot of things left to explore! So with lots of curiosity, enjoy your journey of life without having much regrets. All the very best.
-
-
-</div>
