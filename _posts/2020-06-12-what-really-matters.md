@@ -2,13 +2,15 @@
 layout: post
 title:  "What really matters ? - A guide to undergrads"
 date:   2020-06-12 23:37:42
-categories: education, philosophy, college, undergrads
+categories: education philosophy college undergrads
 comments: true
 ---
 
-# What really matters ?
+# What really matters - A guide to undergrads ?
 
 Millions of students join engineering colleges every year but only a minuscule percentage graduate with some acceptable degree of satisfaction and a sense of achievement, while the majority end up confused and disillusioned as a result of short-sighted choices they make. In this article, I will outline some tips which when followed during the course of study can give students some sense of satisfaction in the end. The suggestions given are completely based on my personal experience and my philosophy towards education, work, and life.
+
+
 
 I will focus on the three most important aspects - Personal life, Career, and Academics and give some insights on the kind of effort that must be made in each of these areas to have the best outcomes. Requirements of Industry, Academia, and the Society evolve very fast and I would strongly recommend you not to blindly stick to the suggestions outlined here, instead understand the essence of the content and adapt it to your circumstances.
 
