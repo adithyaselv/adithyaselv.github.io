@@ -5,7 +5,7 @@ date:   2020-06-12 23:37:42
 categories: education philosophy college undergraduate
 comments: true
 ---
-
+<div style="text-align: justify">
 Millions of students join engineering colleges every year but only a minuscule percentage graduate with some acceptable degree of satisfaction and a sense of achievement, while the majority end up confused and disillusioned as a result of short-sighted choices they make. In this article, I will outline some tips which when followed during the course of study can give students some sense of satisfaction in the end. The suggestions given are completely based on my personal experience and my philosophy towards education, work, and life.
 
 
