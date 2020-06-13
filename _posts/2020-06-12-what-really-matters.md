@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "What really matters ? - A guide to undergrads"
+title:  "What really matters ? - A guide to undergrad education"
 date:   2020-06-12 23:37:42
-categories: education philosophy college undergrads
+categories: education philosophy college undergraduate
 comments: true
 ---
 
