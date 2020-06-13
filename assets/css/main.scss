@@ -592,6 +592,7 @@ header.main-header {
 .post, .page {
   margin-bottom: 2em;
   padding: 1em;
+  text-align: justify;
   @include MQ(M) {
     margin-bottom: 4em;
     padding: 2em;
